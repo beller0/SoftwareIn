@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "backendAg", "backendAg.csproj", "{DF12A54B-CFB8-402F-A720-8514BF4B0224}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "vueproject1", "..\vueproject1\vueproject1.esproj", "{37AC751A-BAE2-4D23-AE5A-22D20D67E943}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "vueproject1", "..\frontend\vueproject1.esproj", "{37AC751A-BAE2-4D23-AE5A-22D20D67E943}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
